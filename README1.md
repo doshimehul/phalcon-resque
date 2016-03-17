@@ -1,5 +1,5 @@
 # phalcon-resque
-Setup backgsqueround jobs with Phalcon and Resque
+Setup background jobs with Phalcon and Resque
 
 Installation
 Install Phalcon
